@@ -1,0 +1,1 @@
+const offerLink = "https://resilientstrudel2152f7.netlify.app/";
